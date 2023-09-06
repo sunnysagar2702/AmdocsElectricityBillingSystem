@@ -37,5 +37,3 @@ You can follow the on-screen prompts to navigate through the options and interac
 ## Contributing
 Contributions to improve this program are welcome! If you have any suggestions or enhancements, please open an issue or create a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
