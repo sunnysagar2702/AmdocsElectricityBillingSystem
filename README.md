@@ -1,4 +1,4 @@
-# Electricity Billing System
+# Amdocs Electricity Billing System
 
 This is a simple command-line Java program that simulates an electricity billing system. Users can be added with their name, address, and meter ID. Then, the program allows you to calculate the electricity bill for a specific user based on units consumed.
 
@@ -18,7 +18,7 @@ This is a simple command-line Java program that simulates an electricity billing
 
 3. Compile the Java program using the following command:
    ```shell
-   javac ElectricityBillingSystem.java
+   javac AmdocsElectricityBillingSystem.java
 
 ## Usage
 The program provides a simple menu-driven interface:
