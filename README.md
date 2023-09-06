@@ -7,7 +7,6 @@ This is a simple command-line Java program that simulates an electricity billing
 - [How to Run](#how-to-run)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 - Java Development Kit (JDK) installed on your computer.
